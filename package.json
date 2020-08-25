@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/vakodrazan/server-side/issues"
   },
-  "homepage": "https://github.com/vakodrazan/server-side#readme"
+  "homepage": "https://github.com/vakodrazan/server-side#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
