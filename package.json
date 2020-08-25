@@ -1,0 +1,20 @@
+{
+  "name": "server-side",
+  "version": "1.0.0",
+  "description": "A series of exercises for getting a JavaScript-based server-side application up and running",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vakodrazan/server-side.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vakodrazan/server-side/issues"
+  },
+  "homepage": "https://github.com/vakodrazan/server-side#readme"
+}
