@@ -4,7 +4,8 @@
   "description": "A series of exercises for getting a JavaScript-based server-side application up and running",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node ./index.js"
   },
   "repository": {
     "type": "git",
